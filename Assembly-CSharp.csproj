@@ -50,6 +50,9 @@
      <Compile Include="Assets/Test/GridBuilder/TestGrid.cs" />
      <Compile Include="Assets/BoaNeoTools/Pooling/PooledObject.cs" />
      <Compile Include="Assets/Test/GridBuilder/TestCell.cs" />
+     <Compile Include="Assets/BoaNeoTools/UI/GridOnDemand.cs" />
+     <Compile Include="Assets/Test/GridOnDemand/OnDemandTestCell.cs" />
+     <Compile Include="Assets/Test/GridOnDemand/OnDemandTestGrid.cs" />
      <Folder Include="Assets" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
@@ -80,6 +83,7 @@
      <Folder Include="Assets/TextMesh Pro/Fonts" />
      <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
      <Folder Include="Assets/BoaNeoTools/Pooling" />
+     <Folder Include="Assets/Test/GridOnDemand" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />

@@ -2,9 +2,9 @@ using BoaNeoTools.UI;
 using TMPro;
 using UnityEngine;
 
-namespace Test.GridBuilder
+namespace Test.GridOnDemand
 {
-	public class TestCell : GridCell
+	public class OnDemandTestCell : GridCell
 	{
 		[SerializeField] private TMP_Text _text;
 
